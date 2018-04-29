@@ -1,0 +1,27 @@
+{
+  "account": {
+    "state": {
+      "title": "État du compte",
+      "registration": "Date d'inscription : {{date}}",
+      "lastActivity": "Date de dernière activité : {{date}}",
+      "deactivation": "Date de désactivation : {{date}}"
+    },
+    "coordinates": {
+      "title": "Coordonnées"
+    },
+    "stats": {
+      "added": "{{quantity}} ({{amount}}$) livre(s) à vendre",
+      "sold": "{{quantity}} ({{amount}}$) livre(s) vendu(s)",
+      "paid": "{{quantity}} ({{amount}}$) livre(s) dont l'argent vous a été remise"
+    }
+  },
+  "item": {
+    "author": "Auteur.e.s : {{author}}",
+    "edition": "Édition : {{edition}}",
+    "editor": "Éditeur : {{editor}}",
+    "publication": "Publication : {{publication}}",
+    "status": "Statut : {{status}}",
+    "inStock": "{{inStock}} exemplaire.s en stock",
+    "avgPrice": "Prix moyen : {{avgPrice}}$"
+  }
+}
